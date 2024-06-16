@@ -1,4 +1,4 @@
-# Reverse plastic-accepting vending machine
+# Plastic-accepting machine
 
 Moldir Azhimukhanbet, moldir.azhimukhanbet@nu.edu.kz
 
