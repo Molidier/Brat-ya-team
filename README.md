@@ -29,7 +29,9 @@ of states of the “start” and “stop” buttons.
 ## 3. Results
 <p align="center">
 <img src= https://github.com/Molidier/Brat-ya-team/assets/73649370/86ad983f-3858-4f1b-bd30-80260844d62f >
-         <b><i>Figure 1. Scheme of the reverse plastic-accepting vending machine </i></b>
+</p>
+<p align="center">
+<b><i>Figure 1. Scheme of the reverse plastic-accepting vending machine </i></b>
 </p>
 
 The circled numbers in Figure 1 represent the corresponding ordered hardware components from Materials and methods.
