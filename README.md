@@ -17,14 +17,14 @@ of states of the “start” and “stop” buttons.
     
 ## 2. Materials and methods
 
-- Arduino MEGA 2560 R3
-- Breadboard
-- Foam Board
-- HS-322HD Deluxe Servo x2
-- Ultrasonic Distance Sensor - HC-SR04 x3
-- HC-SR501 Passive Infrared (PIR) sensor
-- LCD Display (I2C LCD1602)
-- Vex bumper switch
+1. Arduino MEGA 2560 R3
+2. Breadboard
+3. Foam Board
+4. HS-322HD Deluxe Servo x2
+5. Ultrasonic Distance Sensor - HC-SR04 x3
+6. HC-SR501 Passive Infrared (PIR) sensor
+7. LCD Display (I2C LCD1602)
+8. Vex bumper switch
 
 ## 3. Results
 <p align="center">
@@ -35,9 +35,9 @@ of states of the “start” and “stop” buttons.
 The circled numbers in Figure 1 represent the corresponding ordered hardware components from Materials and methods.
 
 <p align="center">
-<img src=https://github.com/Molidier/Brat-ya-team/assets/73649370/5c55ace2-483a-4dd4-9343-9cc736f311c3 >
+<img width = "300" src=https://github.com/Molidier/Reverse-plastic-accepting-vending-machine-Brat-ya-team-/assets/73649370/263398d9-6b66-4f1e-bf11-d45798f36676 >
 </p>
-   
+
 <p align="center">
 <b><i>Figure 2. Picture of the  final machine</i></b>
 
